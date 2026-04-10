@@ -8,6 +8,8 @@ color_scheme: light
 nav_sort: order
 
 
+favicon_ico: "/batchenhanceimage-docs/assets/images/favicon.ico"
+
 aux_links:
   "Get on Microsoft Store": "https://apps.microsoft.com/detail/9PFR4V6827XQ"
 
