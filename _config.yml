@@ -1,0 +1,19 @@
+remote_theme: just-the-docs/just-the-docs
+
+title: BatchEnhance Image for printing
+description: Documentation for BatchEnhance Image for printing — batch image upscaling and DPI preparation for print.
+
+color_scheme: light
+
+nav_sort: order
+
+logo: "https://3thousand30.github.io/batchenhanceimage-docs/assets/images/logo.png"
+
+aux_links:
+  "Get on Microsoft Store": "https://apps.microsoft.com/detail/9PFR4V6827XQ"
+
+aux_links_new_tab: true
+
+footer_content: >
+  &copy; 2026 <a href="https://3thousand30.com">3thousand30</a> &mdash;
+  <a href="https://github.com/3thousand30/batchenhanceimage-docs/issues">Support</a>
