@@ -54,7 +54,7 @@ Partial failures are shown in the **Logs panel** with the filename and error mes
 
 Verify DPI in Windows Explorer: right-click the file → **Properties** → **Details** tab → **Horizontal resolution** / **Vertical resolution**.
 
-If the value shows 72 or 96 instead of your chosen DPI, the file format may not support embedded DPI metadata. This can happen with certain WebP files. Try outputting as JPG or PNG instead.
+If the value shows 72 or 96 instead of your chosen DPI, the file is likely **WebP**. WebP does not support embedded DPI metadata — Windows Explorer always shows 72 DPI for WebP files regardless of what was written. This is a WebP format limitation, not an app error. Output as JPG or PNG if you need the DPI to be verifiable.
 
 ---
 

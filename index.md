@@ -10,7 +10,7 @@ nav_order: 1
 
 Point it at a folder. Pick a scale and DPI. Click Enhance. Done.
 
-[Get it on Microsoft Store](https://apps.microsoft.com/detail/9PFR4V6827XQ){: .btn .btn-blue }
+[Get it on Microsoft Store](https://apps.microsoft.com/detail/9n2vhg38ss00){: .btn .btn-blue }
 
 ---
 
