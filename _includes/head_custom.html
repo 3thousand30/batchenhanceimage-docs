@@ -1,22 +1,24 @@
-<link rel="shortcut icon" href="{{ '/assets/images/favicon.ico' | relative_url }}" type="image/x-icon">
+<link rel="icon" type="image/png" href="https://3thousand30.github.io/batchenhanceimage-docs/assets/images/logo.png">
 
 <style>
   .site-logo {
-    display: block;
-    margin-bottom: 0;
-    padding-bottom: 0;
-  }
-  .site-logo img {
-    width: 52px;
+    background-image: url("https://3thousand30.github.io/batchenhanceimage-docs/assets/images/logo.png") !important;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
     height: 52px;
-    object-fit: contain;
+    width: 52px;
     display: block;
     margin: 0 auto;
   }
+
+  /* Remove the extra space the theme reserves for site title text */
   .site-header {
     padding-top: 12px;
     padding-bottom: 8px;
   }
+
+  /* Tighten the gap between logo and nav */
   .site-nav {
     padding-top: 8px;
   }
