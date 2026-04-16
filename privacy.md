@@ -14,20 +14,24 @@ BatchEnhance Image for printing is developed by [3thousand30](https://3thousand3
 
 ## What we collect
 
-**Nothing.** 3thousand30 does not collect, store, transmit, or have access to any personal data from users of this app.
+3thousand30 does not collect, store, or receive your source images, processed images, filenames, folders, or chosen enhancement settings through this app.
 
-- No analytics
-- No telemetry
+- No analytics sent to us
+- No telemetry sent to us
 - No crash reporting sent to us
 - No account or registration required
 
 ---
 
-## What leaves your machine
+## What may leave your device
 
-**Nothing.** BatchEnhance Image for printing works entirely offline. It reads images from a folder on your machine, processes them locally using Sharp (an open-source image processing library), and writes the results to a folder on your machine.
+BatchEnhance Image for printing processes your images locally on your Windows device and writes the results to folders on your machine.
 
-No image data, no filenames, no settings, and no personal information of any kind are transmitted over the network.
+The app may also request the **Inter** user-interface font from **Google Fonts** so the app looks consistent across devices. That font request is made directly from your device to Google's servers and may include standard network information such as your IP address and browser or app request metadata, subject to Google's own privacy practices.
+
+If Google Fonts is unavailable, the app can fall back to local system fonts.
+
+3thousand30 does not receive your images or the contents of those Google font requests.
 
 ---
 
@@ -36,7 +40,7 @@ No image data, no filenames, no settings, and no personal information of any kin
 - Your last-used settings (scale, DPI, output format) — stored in your app data folder
 - Processed images — written to the folder you choose
 
-None of this data leaves your machine.
+This information remains on your device unless you choose to share it.
 
 ---
 

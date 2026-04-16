@@ -21,7 +21,7 @@ Point it at a folder. Pick a scale and DPI. Click Enhance. Done.
 3. **Enhance** — the app upscales each image using high-quality Lanczos3 resampling, applies a sharpening pass, and embeds the DPI metadata
 4. **Open your output folder** — enhanced files land alongside your originals in an `Enhanced` subfolder
 
-Everything runs locally on your machine. No internet connection required. No data leaves your device.
+Image processing happens locally on your machine. The app may request the Inter UI font from Google Fonts for display consistency when an internet connection is available.
 
 ---
 
@@ -33,7 +33,7 @@ Everything runs locally on your machine. No internet connection required. No dat
 - **Format conversion** — output as JPG, PNG, WebP, or keep the original format
 - **Skip existing files** — re-run without reprocessing already-enhanced images
 - **Batch progress** — real-time counter with per-error logging
-- **100% offline** — all processing happens on your device using Sharp
+- **Local image processing** — output generation happens on your device using Sharp
 
 ---
 
