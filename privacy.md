@@ -8,7 +8,7 @@ nav_order: 6
 
 **Last updated: April 2026**
 
-BatchEnhance Image for printing is developed by [3thousand30](https://3thousand30.com).
+BatchEnhance Image is developed by [3thousand30](https://3thousand30.com).
 
 ---
 
@@ -25,7 +25,7 @@ BatchEnhance Image for printing is developed by [3thousand30](https://3thousand3
 
 ## What may leave your device
 
-BatchEnhance Image for printing processes your images locally on your Windows device and writes the results to folders on your machine.
+BatchEnhance Image processes your images locally on your Windows device and writes the results to folders on your machine.
 
 The app may also request the **Inter** user-interface font from **Google Fonts** so the app looks consistent across devices. That font request is made directly from your device to Google's servers and may include standard network information such as your IP address and browser or app request metadata, subject to Google's own privacy practices.
 

@@ -12,7 +12,7 @@ This guide walks you through enhancing your first batch of images for print.
 
 ## 1. Install the app
 
-Download and install **BatchEnhance Image for printing** from the Microsoft Store. Once installed, launch it from the Start menu.
+Download and install **BatchEnhance Image** from the Microsoft Store. Once installed, launch it from the Start menu.
 
 ---
 

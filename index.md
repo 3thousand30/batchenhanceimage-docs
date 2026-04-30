@@ -4,9 +4,9 @@ title: Home
 nav_order: 1
 ---
 
-# BatchEnhance Image for printing
+# BatchEnhance Image
 
-**BatchEnhance Image for printing** is a Windows desktop app by [3thousand30](https://3thousand30.com) that upscales and prepares batches of images for high-quality print output — posters, photo books, fine art prints, and more.
+**BatchEnhance Image** is a Windows desktop app by [3thousand30](https://3thousand30.com) that upscales and prepares batches of images for high-quality print output — posters, photo books, fine art prints, and more.
 
 Point it at a folder. Pick a scale and DPI. Click Enhance. Done.
 
